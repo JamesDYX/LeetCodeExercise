@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a87f7cbb-3108-4b37-bd0f-40b5b9c95c4a" name="Default Changelist" comment="" />
+    <list default="true" id="a87f7cbb-3108-4b37-bd0f-40b5b9c95c4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,23 +14,32 @@
     <SUITE FILE_PATH="coverage/LeetCode$solution_1__2_.coverage" NAME="solution_1 (2) Coverage Results" MODIFIED="1585544177788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_3Sum_Closest" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_4.coverage" NAME="solution_4 Coverage Results" MODIFIED="1585024010078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1074_Number_of_Submatrices_Taht_Sum_to_Target" />
     <SUITE FILE_PATH="coverage/Leetcode$solution_1.coverage" NAME="solution_1 Coverage Results" MODIFIED="1583594343740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Two_Sum" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_2__1_.coverage" NAME="solution_2 (1) Coverage Results" MODIFIED="1585141341825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1146_Snapshot_Array" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_2__1_.coverage" NAME="solution_2 (1) Coverage Results" MODIFIED="1585626076608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/769_Max_Chunks_To_Make_Sorted" />
     <SUITE FILE_PATH="coverage/Leetcode$pytest_for_solution_1_test.coverage" NAME="pytest for solution_1.test Coverage Results" MODIFIED="1583593213846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Two_Sum" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_1.coverage" NAME="solution_1 Coverage Results" MODIFIED="1585402168506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_1.coverage" NAME="solution_1 Coverage Results" MODIFIED="1585628893105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/64_Minimum_Path_Sum" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_1__1_.coverage" NAME="solution_1 (1) Coverage Results" MODIFIED="1585534205801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/914_X_of_a_Kind_in_a_Deck_of_Cards" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_1__4_.coverage" NAME="solution_1 (4) Coverage Results" MODIFIED="1585399035786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/128_Longest_Consecutive_Sequence" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_1__4_.coverage" NAME="solution_1 (4) Coverage Results" MODIFIED="1585626093089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/769_Max_Chunks_To_Make_Sorted" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_3.coverage" NAME="solution_3 Coverage Results" MODIFIED="1585023450971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1074_Number_of_Submatrices_Taht_Sum_to_Target" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_1__5_.coverage" NAME="solution_1 (5) Coverage Results" MODIFIED="1585392183617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/560_Subarray_Sum_Equals_K" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_1__3_.coverage" NAME="solution_1 (3) Coverage Results" MODIFIED="1585395854004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/792_Number_of_Matching_Subsequences" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_2.coverage" NAME="solution_2 Coverage Results" MODIFIED="1585402262280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_1__3_.coverage" NAME="solution_1 (3) Coverage Results" MODIFIED="1585623068192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/209_Minimum_Size_Subarray_Sum" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_2.coverage" NAME="solution_2 Coverage Results" MODIFIED="1585629740882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/64_Minimum_Path_Sum" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/64_Minimum_Path_Sum/solution_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="21" selection-start-line="21" selection-end-line="33" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/16_3Sum_Closest/solution_1.py">
+        <entry file="file://$PROJECT_DIR$/64_Minimum_Path_Sum/solution_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="38" selection-end-column="18" />
+              <caret selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -48,11 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/242_Valid_Anagram/solution_2.py" />
-        <option value="$PROJECT_DIR$/25_Reverse_Nodes_In_k-Group/solution_1.py" />
-        <option value="$PROJECT_DIR$/24_Swap_Nodes_In_Pairs/solution_1.py" />
-        <option value="$PROJECT_DIR$/739_Daily_Tempratures/solution_1.py" />
-        <option value="$PROJECT_DIR$/224_Basic_Calculator.py" />
         <option value="$PROJECT_DIR$/224_Basic_Calculator/solution_1.py" />
         <option value="$PROJECT_DIR$/224_Basic_Calculator/solution_2.py" />
         <option value="$PROJECT_DIR$/227_Basic_Calculator_2/solution_1.py" />
@@ -99,6 +105,11 @@
         <option value="$PROJECT_DIR$/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold/solution_1.py" />
         <option value="$PROJECT_DIR$/914_X_of_a_Kind_in_a_Deck_of_Cards/solution_1.py" />
         <option value="$PROJECT_DIR$/16_3Sum_Closest/solution_1.py" />
+        <option value="$PROJECT_DIR$/209_Minimum_Size_Subarray_Sum/solution_1.py" />
+        <option value="$PROJECT_DIR$/769_Max_Chunks_To_Make_Sorted/solution_1.py" />
+        <option value="$PROJECT_DIR$/769_Max_Chunks_To_Make_Sorted/solution_2.py" />
+        <option value="$PROJECT_DIR$/64_Minimum_Path_Sum/solution_1.py" />
+        <option value="$PROJECT_DIR$/64_Minimum_Path_Sum/solution_2.py" />
       </list>
     </option>
   </component>
@@ -123,7 +134,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold" type="462c0819:PsiDirectoryNode" />
+              <item name="64_Minimum_Path_Sum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,8 +161,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution_1 (2)">
-    <configuration name="solution_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.solution_2">
+    <configuration name="solution_1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,34 +170,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/914_X_of_a_Kind_in_a_Deck_of_Cards" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/209_Minimum_Size_Subarray_Sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/914_X_of_a_Kind_in_a_Deck_of_Cards/solution_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution_1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16_3Sum_Closest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_3Sum_Closest/solution_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/209_Minimum_Size_Subarray_Sum/solution_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,12 +192,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/128_Longest_Consecutive_Sequence" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/769_Max_Chunks_To_Make_Sorted" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/128_Longest_Consecutive_Sequence/solution_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/769_Max_Chunks_To_Make_Sorted/solution_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,12 +214,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/64_Minimum_Path_Sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold/solution_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/64_Minimum_Path_Sum/solution_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/769_Max_Chunks_To_Make_Sorted" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/769_Max_Chunks_To_Make_Sorted/solution_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,12 +258,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/64_Minimum_Path_Sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold/solution_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/64_Minimum_Path_Sum/solution_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.solution_1 (2)" />
-        <item itemvalue="Python.solution_1 (1)" />
         <item itemvalue="Python.solution_2" />
         <item itemvalue="Python.solution_1" />
         <item itemvalue="Python.solution_1 (4)" />
+        <item itemvalue="Python.solution_2 (1)" />
+        <item itemvalue="Python.solution_1 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -298,6 +309,7 @@
       <workItem from="1585228769520" duration="125000" />
       <workItem from="1585362573618" duration="15528000" />
       <workItem from="1585532738996" duration="4642000" />
+      <workItem from="1585621380982" duration="6536000" />
     </task>
     <servers />
   </component>
@@ -307,13 +319,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134506000" />
+    <option name="totallyTimeSpent" value="141042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3104435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -428,35 +440,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/25_Reverse_Nodes_In_k-Group/solution_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="43" selection-start-line="43" selection-end-line="79" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/24_Swap_Nodes_In_Pairs/solution_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/224_Basic_Calculator.py" />
-    <entry file="file://$PROJECT_DIR$/224_Basic_Calculator/solution_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="35" selection-start-line="35" selection-end-line="45" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/227_Basic_Calculator_2/solution_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -770,6 +753,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/209_Minimum_Size_Subarray_Sum/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="24" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/769_Max_Chunks_To_Make_Sorted/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/769_Max_Chunks_To_Make_Sorted/solution_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/64_Minimum_Path_Sum/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="21" selection-start-line="21" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/64_Minimum_Path_Sum/solution_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
