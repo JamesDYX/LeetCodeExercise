@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87f7cbb-3108-4b37-bd0f-40b5b9c95c4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/126_Word_ladder_2/solution_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/126_Word_ladder_2/solution_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/621_Task_Scheduler/solution_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/840_Magic_Squares_In_Grid/solution_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +22,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$pytest_for_solution_1_test.coverage" NAME="pytest for solution_1.test Coverage Results" MODIFIED="1583593213846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Two_Sum" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_1.coverage" NAME="solution_1 Coverage Results" MODIFIED="1586186859422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/126_Word_ladder_2" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_1__1_.coverage" NAME="solution_1 (1) Coverage Results" MODIFIED="1585982329361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/162_Find_Peak_Element" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_1__3_.coverage" NAME="solution_1 (3) Coverage Results" MODIFIED="1586188727330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/840_Magic_Squares_In_Grid" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_1__3_.coverage" NAME="solution_1 (3) Coverage Results" MODIFIED="1586189112443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/840_Magic_Squares_In_Grid" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_2.coverage" NAME="solution_2 Coverage Results" MODIFIED="1586187164857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/126_Word_ladder_2" />
   </component>
   <component name="FileEditorManager">
@@ -34,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/840_Magic_Squares_In_Grid/solution_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state>
+              <caret selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -306,7 +302,7 @@
       <workItem from="1585799250687" duration="4734000" />
       <workItem from="1585887790551" duration="7078000" />
       <workItem from="1585969876622" duration="6235000" />
-      <workItem from="1586183236098" duration="4551000" />
+      <workItem from="1586183236098" duration="4938000" />
     </task>
     <servers />
   </component>
@@ -316,10 +312,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167588000" />
+    <option name="totallyTimeSpent" value="167975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2453505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -327,7 +324,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.25903615" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.34578314" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34578314" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -427,11 +424,6 @@
           <url>file://$PROJECT_DIR$/79_Word_Search/solution_1.py</url>
           <line>68</line>
           <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/840_Magic_Squares_In_Grid/solution_1.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -790,8 +782,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/840_Magic_Squares_In_Grid/solution_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state>
+          <caret selection-end-line="24" selection-end-column="18" />
         </state>
       </provider>
     </entry>
