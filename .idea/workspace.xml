@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87f7cbb-3108-4b37-bd0f-40b5b9c95c4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1267_Count_Servers_that_Communicate/solution_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1267_Count_Servers_that_Communicate/solution_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/228_Summary_Ranges/solution_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,31 +16,22 @@
     <SUITE FILE_PATH="coverage/LeetCode$solution_3.coverage" NAME="solution_3 Coverage Results" MODIFIED="1585807780400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/45_Jump_Game_2" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_1__5_.coverage" NAME="solution_1 (5) Coverage Results" MODIFIED="1586400525890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1267_Count_Servers_that_Communicate" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_2__2_.coverage" NAME="solution_2 (2) Coverage Results" MODIFIED="1585711872110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/55_Jump_Game" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_1__2_.coverage" NAME="solution_1 (2) Coverage Results" MODIFIED="1586327568180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/719_Find_K-th_Smallest_Pair_Distance" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_1__2_.coverage" NAME="solution_1 (2) Coverage Results" MODIFIED="1586488646274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/287_Find_the_Duplicate_Number" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_4.coverage" NAME="solution_4 Coverage Results" MODIFIED="1585024010078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1074_Number_of_Submatrices_Taht_Sum_to_Target" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_2__1_.coverage" NAME="solution_2 (1) Coverage Results" MODIFIED="1586233416328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/238_Product_Of_Array_Except_Self" />
     <SUITE FILE_PATH="coverage/Leetcode$pytest_for_solution_1_test.coverage" NAME="pytest for solution_1.test Coverage Results" MODIFIED="1583593213846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Two_Sum" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_1.coverage" NAME="solution_1 Coverage Results" MODIFIED="1586233913195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/66_Plus_One" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_1.coverage" NAME="solution_1 Coverage Results" MODIFIED="1586484655552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_4Sum" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_1__1_.coverage" NAME="solution_1 (1) Coverage Results" MODIFIED="1586398391836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/228_Summary_Ranges" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_1__3_.coverage" NAME="solution_1 (3) Coverage Results" MODIFIED="1586328438507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_1__3_.coverage" NAME="solution_1 (3) Coverage Results" MODIFIED="1586490510856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/63_Unique_Path_2" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_2.coverage" NAME="solution_2 Coverage Results" MODIFIED="1586187164857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/126_Word_ladder_2" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1267_Count_Servers_that_Communicate/solution_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1267_Count_Servers_that_Communicate/solution_2.py">
+        <entry file="file://$PROJECT_DIR$/63_Unique_Path_2/solution_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state>
+              <caret selection-end-line="15" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -63,10 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1157_Online_Majority_Element_In_Subarray/solution_1.py" />
-        <option value="$PROJECT_DIR$/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/solution_1.py" />
-        <option value="$PROJECT_DIR$/729_My_Calender/solution_1.py" />
-        <option value="$PROJECT_DIR$/85_Maximal_Rectangle/solution_1.py" />
         <option value="$PROJECT_DIR$/31_Next_Permutation/solution_1.py" />
         <option value="$PROJECT_DIR$/53_Maximum_Subarray/solution_1.py" />
         <option value="$PROJECT_DIR$/53_Maximum_Subarray/solution_2.py" />
@@ -114,6 +98,10 @@
         <option value="$PROJECT_DIR$/228_Summary_Ranges/solution_1.py" />
         <option value="$PROJECT_DIR$/1267_Count_Servers_that_Communicate/solution_1.py" />
         <option value="$PROJECT_DIR$/1267_Count_Servers_that_Communicate/solution_2.py" />
+        <option value="$PROJECT_DIR$/18_4Sum/solution_1.py" />
+        <option value="$PROJECT_DIR$/18_4Sum/solution_2.py" />
+        <option value="$PROJECT_DIR$/287_Find_the_Duplicate_Number/solution_1.py" />
+        <option value="$PROJECT_DIR$/63_Unique_Path_2/solution_1.py" />
       </list>
     </option>
   </component>
@@ -164,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution_1 (5)">
+  <component name="RunManager" selected="Python.solution_1 (3)">
     <configuration name="solution_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,12 +183,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/719_Find_K-th_Smallest_Pair_Distance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/287_Find_the_Duplicate_Number" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/719_Find_K-th_Smallest_Pair_Distance/solution_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/287_Find_the_Duplicate_Number/solution_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,34 +205,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/63_Unique_Path_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II/solution_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution_1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/665_Non-decreasing_Array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/665_Non-decreasing_Array/solution_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/63_Unique_Path_2/solution_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,13 +241,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solution_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18_4Sum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_4Sum/solution_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.solution_1 (5)" />
-        <item itemvalue="Python.solution_1 (1)" />
-        <item itemvalue="Python.solution_1 (4)" />
         <item itemvalue="Python.solution_1 (3)" />
         <item itemvalue="Python.solution_1 (2)" />
+        <item itemvalue="Python.solution_1" />
+        <item itemvalue="Python.solution_1 (5)" />
+        <item itemvalue="Python.solution_1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -323,6 +311,7 @@
       <workItem from="1586324255966" duration="5278000" />
       <workItem from="1586354248774" duration="276000" />
       <workItem from="1586397704477" duration="1733000" />
+      <workItem from="1586481724656" duration="3123000" />
     </task>
     <servers />
   </component>
@@ -332,13 +321,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177858000" />
+    <option name="totallyTimeSpent" value="180981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25965664" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26323318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -445,6 +434,11 @@
           <line>68</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/18_4Sum/solution_1.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -458,34 +452,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/85_Maximal_Rectangle/solution_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31_Next_Permutation/solution_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="21" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/53_Maximum_Subarray/solution_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/53_Maximum_Subarray/solution_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/560_Subarray_Sum_Equals_K/solution_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -789,17 +755,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1267_Count_Servers_that_Communicate/solution_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1267_Count_Servers_that_Communicate/solution_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1267_Count_Servers_that_Communicate/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_4Sum/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_4Sum/solution_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/287_Find_the_Duplicate_Number/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/63_Unique_Path_2/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>
