@@ -1,2 +1,0 @@
-# LeetCode
- Accepted LeetCode Problems
