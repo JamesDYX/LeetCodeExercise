@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87f7cbb-3108-4b37-bd0f-40b5b9c95c4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock/solution_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/283_Move_Zeros/solution_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/581_Shortest_Unsorted_Continuous_Subarray/solution_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/713_Subarray_Product_Less_Than_K/solution_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/766_Toeplitz_Matrix/solution_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +18,11 @@
     <SUITE FILE_PATH="coverage/LeetCode$solution_3.coverage" NAME="solution_3 Coverage Results" MODIFIED="1585807780400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/45_Jump_Game_2" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_1__5_.coverage" NAME="solution_1 (5) Coverage Results" MODIFIED="1586612660248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/283_Move_Zeros" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_2__2_.coverage" NAME="solution_2 (2) Coverage Results" MODIFIED="1585711872110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/55_Jump_Game" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_1__2_.coverage" NAME="solution_1 (2) Coverage Results" MODIFIED="1586488646274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/287_Find_the_Duplicate_Number" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_1__2_.coverage" NAME="solution_1 (2) Coverage Results" MODIFIED="1586748905717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/766_Toeplitz_Matrix" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_4.coverage" NAME="solution_4 Coverage Results" MODIFIED="1585024010078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1074_Number_of_Submatrices_Taht_Sum_to_Target" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_2__1_.coverage" NAME="solution_2 (1) Coverage Results" MODIFIED="1586233416328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/238_Product_Of_Array_Except_Self" />
     <SUITE FILE_PATH="coverage/Leetcode$pytest_for_solution_1_test.coverage" NAME="pytest for solution_1.test Coverage Results" MODIFIED="1583593213846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Two_Sum" />
-    <SUITE FILE_PATH="coverage/LeetCode$solution_1.coverage" NAME="solution_1 Coverage Results" MODIFIED="1586484655552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_4Sum" />
+    <SUITE FILE_PATH="coverage/LeetCode$solution_1.coverage" NAME="solution_1 Coverage Results" MODIFIED="1586746949163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/713_Subarray_Product_Less_Than_K" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_1__1_.coverage" NAME="solution_1 (1) Coverage Results" MODIFIED="1586611906874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/581_Shortest_Unsorted_Continuous_Subarray" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_1__3_.coverage" NAME="solution_1 (3) Coverage Results" MODIFIED="1586490510856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/63_Unique_Path_2" />
     <SUITE FILE_PATH="coverage/LeetCode$solution_2.coverage" NAME="solution_2 Coverage Results" MODIFIED="1586187164857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/126_Word_ladder_2" />
@@ -31,19 +30,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/581_Shortest_Unsorted_Continuous_Subarray/solution_1.py">
+        <entry file="file://$PROJECT_DIR$/713_Subarray_Product_Less_Than_K/solution_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="21" selection-end-column="24" />
+              <caret selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/283_Move_Zeros/solution_1.py">
+        <entry file="file://$PROJECT_DIR$/766_Toeplitz_Matrix/solution_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state>
+              <caret selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -63,8 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/560_Subarray_Sum_Equals_K/solution_1.py" />
-        <option value="$PROJECT_DIR$/792_Number_of_Matching_Subsequences/solution_1.py" />
         <option value="$PROJECT_DIR$/792_Number_of_Matching_Subsequences/solution_2.py" />
         <option value="$PROJECT_DIR$/128_Longest_Consecutive_Sequence/solution_1.py" />
         <option value="$PROJECT_DIR$/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold/solution_2.py" />
@@ -114,6 +111,8 @@
         <option value="$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock/solution_1.py" />
         <option value="$PROJECT_DIR$/581_Shortest_Unsorted_Continuous_Subarray/solution_1.py" />
         <option value="$PROJECT_DIR$/283_Move_Zeros/solution_1.py" />
+        <option value="$PROJECT_DIR$/713_Subarray_Product_Less_Than_K/solution_1.py" />
+        <option value="$PROJECT_DIR$/766_Toeplitz_Matrix/solution_1.py" />
       </list>
     </option>
   </component>
@@ -127,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,7 +143,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution_1 (5)">
+  <component name="RunManager" selected="Python.solution_1 (2)">
     <configuration name="solution_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,34 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/287_Find_the_Duplicate_Number" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/766_Toeplitz_Matrix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/287_Find_the_Duplicate_Number/solution_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution_1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/63_Unique_Path_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/63_Unique_Path_2/solution_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/766_Toeplitz_Matrix/solution_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,13 +252,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solution_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/713_Subarray_Product_Less_Than_K" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/713_Subarray_Product_Less_Than_K/solution_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution_1 (2)" />
+        <item itemvalue="Python.solution_1" />
         <item itemvalue="Python.solution_1 (5)" />
         <item itemvalue="Python.solution_1 (1)" />
         <item itemvalue="Python.solution_1 (4)" />
-        <item itemvalue="Python.solution_1 (3)" />
-        <item itemvalue="Python.solution_1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +323,8 @@
       <workItem from="1586354248774" duration="276000" />
       <workItem from="1586397704477" duration="1733000" />
       <workItem from="1586481724656" duration="3123000" />
-      <workItem from="1586609141996" duration="2922000" />
+      <workItem from="1586609141996" duration="3137000" />
+      <workItem from="1586746179987" duration="1878000" />
     </task>
     <servers />
   </component>
@@ -334,18 +334,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183903000" />
+    <option name="totallyTimeSpent" value="185996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26680973" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27038628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25903615" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25903615" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34578314" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -470,20 +470,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold/solution_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold/solution_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/914_X_of_a_Kind_in_a_Deck_of_Cards/solution_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -810,8 +796,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/283_Move_Zeros/solution_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state>
+          <caret selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/713_Subarray_Product_Less_Than_K/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/766_Toeplitz_Matrix/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
